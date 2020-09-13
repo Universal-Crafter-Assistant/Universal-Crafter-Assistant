@@ -1,5 +1,7 @@
 {
   "name": "universal-crafter-assistant",
+  "description" : "Tool for helping you craft in your favorite games!",
+  "homepage" : "https://universal-crafter-assistant.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
