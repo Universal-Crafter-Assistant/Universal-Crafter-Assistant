@@ -37,7 +37,12 @@ function App() {
               CanvasOuter: CanvasOuterCustom
             }}/>
       </div>
-      <footer>v{process.env.REACT_APP_VERSION} | WORK IN PROGRESS | All product names, logos, and brands are property of their respective owners.</footer>
+      <footer>
+        v{process.env.REACT_APP_VERSION}&nbsp;
+        | WORK IN PROGRESS
+        | All product names, logos, and brands are property of their respective owners.
+        | View on&nbsp;<a href="https://github.com/Universal-Crafter-Assistant/Universal-Crafter-Assistant">Github</a>
+      </footer>
     </div>
   );
 }
